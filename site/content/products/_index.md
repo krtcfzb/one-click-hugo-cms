@@ -97,6 +97,12 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+published: true
 ---
 
+sdgsdfgs 
+dfg **sdfg**
 
+-
+ 
+ sdfg 
