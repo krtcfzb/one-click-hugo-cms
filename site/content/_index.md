@@ -1,26 +1,26 @@
 ---
-title: Сотникова Наталья Специалист по Яндекс.Директ
-subtitle: "Создание сайтов и их продвижение. Настройка рекламной кампании в Yandex. "
+title: "Сотникова Наталья "
+subtitle: Специалист по Яндекс.Директ
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Настрою рекламу в Яндекс для бизнеса
+  text: |-
+    Выведу Ваш бизнес на новый уровень
+
+
+    Первые горячие клиенты на следующий день
+    Отчет о ведении предоставляю в виде видеозаписи
+    Ведение Вашей рекламы в течение 10 дней бесплатно
+    Расскажу как экономить на рекламе в Яндексе
 intro:
-  heading: What we offer
+  heading: Настрою рекламу в Яндекс для бизнеса
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+  - image: img/iu-2.jpeg
+    text: Выведу Ваш бизнес на новый уровень
   - image: /img/illustrations-coffee-gear.svg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
